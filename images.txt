@@ -1,4 +1,4 @@
-centos:7.8.2003
+oracle-xe-11g:latest
 
 
 
