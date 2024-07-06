@@ -1,4 +1,4 @@
-oracleinanutshell/oracle-xe-11g:latest
+centos:centos7
 
 
 
