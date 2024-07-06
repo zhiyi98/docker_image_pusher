@@ -1,4 +1,4 @@
-oracle-xe-11g:latest
+oracleinanutshell/oracle-xe-11g:latest
 
 
 
