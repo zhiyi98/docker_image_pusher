@@ -1,4 +1,4 @@
-debian:11.7
+lovearuis/postgres10_pathman:latest
 
 
 
