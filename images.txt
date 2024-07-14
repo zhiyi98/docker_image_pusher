@@ -1,4 +1,4 @@
-lovearuis/postgres10_pathman:latest
+pathman/pg10_ca_pathman_tests:latest
 
 
 
